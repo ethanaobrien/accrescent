@@ -19,9 +19,6 @@ if (useKeystoreProperties) {
     keystoreProperties.load(FileInputStream(keystorePropertiesFile))
 }
 
-kotlin {
-    jvmToolchain(11)
-}
 
 android {
     if (useKeystoreProperties) {
@@ -43,7 +40,7 @@ android {
     buildToolsVersion = "35.0.0"
 
     defaultConfig {
-        applicationId = "app.accrescent.client"
+        applicationId = "com.ethanthesleepyone.accrescent"
         minSdk = 29
         targetSdk = 35
         versionCode = 49

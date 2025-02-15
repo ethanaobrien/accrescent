@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name" translatable="false">Accrescent</string>
+    <string name="app_name" translatable="false">App Store</string>
     <string name="app_list">Apps</string>
     <string name="dark">Dark</string>
     <string name="donate">Donate</string>

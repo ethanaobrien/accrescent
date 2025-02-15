@@ -1,3 +1,5 @@
+This is a fork, with my own repository. App icon and name are changed to respect the copyright
+
 <div align="center">
 
 <img src=".icon-round.png" alt="Accrescent" width="144" height="144">
